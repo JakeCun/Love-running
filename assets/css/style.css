@@ -67,6 +67,7 @@ main {
     background-color: lightblue;
     /* Make main content take up ant surplus area*/
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 #menu {
