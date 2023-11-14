@@ -17,6 +17,7 @@ body {
     flex-direction: column;
     /* For generic style properties*/
     color: #3a3a3a;
+    font-family: "Lato", sans-serif;
 }
 
 
