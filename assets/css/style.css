@@ -219,6 +219,25 @@ main {
         margin: 0 0.5rem;
     }
 
+    /*Reasons seaction*/
+
+    #benefits-physical, 
+    #benefits-mental {
+        display: flex;
+        flex-direction: column-reverse;
+        width: 100%;
+
+    }
+
+        #benefits-physical > div,
+        #benefits-mental >div {
+            width:75%; }
+
+        #benefits-mental >div {
+            text-align: end;
+            align-self: flex-end;
+        }
+
     /*Main Content*/
 
     main {
